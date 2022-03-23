@@ -1,3 +1,9 @@
+/*
+To Do
+Trouble shoot associations
+test db with queries
+fill in the routes
+*/
 const express = require('express');
 const routes = require('./routes');
 const sequelize = require('./config/connection'); // import sequelize connection
